@@ -3,7 +3,7 @@
 * Proposal: [SE-0080](0080-failable-numeric-initializers.md)
 * Author: [Matthew Johnson](https://github.com/anandabits)
 * Review manager: [Chris Lattner](http://github.com/lattner)
-* Status: **Accepted with Revisions** (Swift 3)
+* Status: **Accepted with Revisions**
 * Rationale Link: [Rationale](http://thread.gmane.org/gmane.comp.lang.swift.evolution/16899)
 * Tracking Bug: [SR-1491](https://bugs.swift.org/browse/SR-1491)
 
