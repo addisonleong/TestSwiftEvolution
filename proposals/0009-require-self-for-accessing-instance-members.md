@@ -3,7 +3,7 @@
 * Proposal: [SE-0009](https://github.com/apple/swift-evolution/blob/master/proposals/0009-require-self-for-accessing-instance-members.md)
 * Author: [David Hart](https://github.com/hartbit)
 * Review Manager: [Doug Gregor](https://github.com/DougGregor)
-* Status: Rejected
+* Status: **Rejected**
 * Rationale Link: [Rationale](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160104/005478.html)
 
 ## Introduction
