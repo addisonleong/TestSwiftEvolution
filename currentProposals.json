@@ -1,0 +1,681 @@
+[
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0001-keywords-as-argument-labels.md",
+	"sha": "ef58116429fe6880970338430d2331113e237aa4",
+	"title": "Allow (most) keywords as argument labels",
+	"proposal": "SE-0001",
+	"authors": [
+		{
+			"name": "Doug Gregor",
+			"link": "https://github.com/DougGregor"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "N/A",
+			"link": "N/A"
+		},
+	],
+	"status": "Implemented",
+	"version": "Swift 2.2",
+	"trackingBugs": [
+		{
+			"number": "SR-344",
+			"link": "https://bugs.swift.org/browse/SR-344",
+			"status": "Resolved",
+			"resolution": "Done",
+			"components": "Compiler",
+			"priority": "Medium",
+			"radar": "rdar://problem/22415674"
+		},
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0002-remove-currying.md",
+	"sha": "7bcc147941fabb14e6ad831dba1c7289f14bc08a",
+	"title": "Removing currying `func` declaration syntax",
+	"proposal": "SE-0002",
+	"authors": [
+		{
+			"name": "Joe Groff",
+			"link": "https://github.com/jckarter"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "N/A",
+			"link": "N/A"
+		},
+	],
+	"status": "Accepted",
+	"version": "N/A",
+	"trackingBugs": [
+		"N/A",
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0003-remove-var-parameters.md",
+	"sha": "5925cfce8aef7528d60b805416e5f277a74a749b",
+	"title": "Removing `var` from Function Parameters",
+	"proposal": "SE-0003",
+	"authors": [
+		{
+			"name": "David Farler",
+			"link": "https://github.com/bitjammer"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "Joe Pamer",
+			"link": "https://github.com/jopamer"
+		},
+	],
+	"status": "Accepted",
+	"version": "N/A",
+	"trackingBugs": [
+		"N/A",
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0004-remove-pre-post-inc-decrement.md",
+	"sha": "7c9a42828427de2b4e8ee09fef8c6d81ef4b6af9",
+	"title": "Remove the `++` and `--` operators",
+	"proposal": "SE-0004",
+	"authors": [
+		{
+			"name": "Chris Lattner",
+			"link": "https://github.com/lattner"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "N/A",
+			"link": "N/A"
+		},
+	],
+	"status": "Accepted",
+	"version": "N/A",
+	"trackingBugs": [
+		"N/A",
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0005-objective-c-name-translation.md",
+	"sha": "ea105f319635e30626f3b0c6ac4ae8fa37178bc7",
+	"title": "Better Translation of Objective-C APIs Into Swift",
+	"proposal": "SE-0005",
+	"authors": [
+		{
+			"name": "Doug Gregor",
+			"link": "https://github.com/DougGregor"
+		},
+		{
+			"name": "Dave Abrahams",
+			"link": "https://github.com/dabrahams"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "Doug Gregor",
+			"link": "https://github.com/DougGregor"
+		},
+	],
+	"status": "Accepted",
+	"version": "N/A",
+	"trackingBugs": [
+		"N/A",
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0007-remove-c-style-for-loops.md",
+	"sha": "ddeffdeb0f331a03ca23f65e7662057d0599dff9",
+	"title": "Remove C-style for-loops with conditions and incrementers",
+	"proposal": "SE-0007",
+	"authors": [
+		{
+			"name": "Erica Sadun",
+			"link": "https://github.com/erica"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "Doug Gregor",
+			"link": "https://github.com/DougGregor"
+		},
+	],
+	"status": "Accepted",
+	"version": "N/A",
+	"trackingBugs": [
+		{
+			"number": "SR-226",
+			"link": "https://bugs.swift.org/browse/SR-226",
+			"status": "Resolved",
+			"resolution": "Done",
+			"components": "Compiler",
+			"priority": "Medium",
+			"radar": "N/A"
+		},
+		{
+			"number": "SR-227",
+			"link": "https://bugs.swift.org/browse/SR-227",
+			"status": "Closed",
+			"resolution": "Done",
+			"components": "Compiler",
+			"priority": "Medium",
+			"radar": "N/A"
+		},
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0008-lazy-flatmap-for-optionals.md",
+	"sha": "92027c7672f56dd4606b44bf951409c93306d968",
+	"title": "Add a Lazy flatMap for Sequences of Optionals",
+	"proposal": "SE-0008",
+	"authors": [
+		{
+			"name": "Oisin Kidney",
+			"link": "https://github.com/oisdk"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "Doug Gregor",
+			"link": "https://github.com/DougGregor"
+		},
+	],
+	"status": "Accepted",
+	"version": "N/A",
+	"trackingBugs": [
+		{
+			"number": "SR-361",
+			"link": "https://bugs.swift.org/browse/SR-361",
+			"status": "Resolved",
+			"resolution": "Done",
+			"components": "Standard Library",
+			"priority": "Medium",
+			"radar": "N/A"
+		},
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0009-require-self-for-accessing-instance-members.md",
+	"sha": "0e9e4163624bf976b4f2cf195a830cc34bc04ad9",
+	"title": "Require self for accessing instance members  ",
+	"proposal": "SE-0009",
+	"authors": [
+		{
+			"name": "David Hart",
+			"link": "https://github.com/hartbit"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "Doug Gregor",
+			"link": "https://github.com/DougGregor"
+		},
+	],
+	"status": "Rejected",
+	"version": "N/A",
+	"trackingBugs": [
+		"N/A"
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0010-add-staticstring-unicodescalarview.md",
+	"sha": "9cbbaa7422e1229ce948612c7dda704f7809aa16",
+	"title": "Add StaticString.UnicodeScalarView",
+	"proposal": "SE-0010",
+	"authors": [
+		{
+			"name": "Kevin Ballard",
+			"link": "https://github.com/kballard"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "Doug Gregor",
+			"link": "https://github.com/DougGregor"
+		},
+	],
+	"status": "Rejected",
+	"version": "N/A",
+	"trackingBugs": [
+		"N/A"
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0011-replace-typealias-associated.md",
+	"sha": "6217d027b3b21ba4856c8895f6f249eb74322835",
+	"title": "Replace `typealias` keyword with `associatedtype` for associated type declarations",
+	"proposal": "SE-0011",
+	"authors": [
+		{
+			"name": "Loïc Lecrenier",
+			"link": "https://github.com/loiclec"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "Doug Gregor",
+			"link": "https://github.com/DougGregor"
+		},
+	],
+	"status": "Accepted",
+	"version": "N/A",
+	"trackingBugs": [
+		{
+			"number": "SR-511",
+			"link": "https://bugs.swift.org/browse/SR-511",
+			"status": "Closed",
+			"resolution": "Done",
+			"components": "Compiler",
+			"priority": "Medium",
+			"radar": "rdar://problem/24159196"
+		},
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0012-add-noescape-to-public-library-api.md",
+	"sha": "9329df80abe1d2f2d42a0e8e1cf80b2e48e2cd2e",
+	"title": "Add `@noescape` to public library API",
+	"proposal": "SE-0012",
+	"authors": [
+		{
+			"name": "Jacob Bandes-Storch",
+			"link": "https://github.com/jtbandes"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "Philippe Hausler",
+			"link": "https://github.com/phausler"
+		},
+	],
+	"status": "Rejected",
+	"version": "N/A",
+	"trackingBugs": [
+		"N/A"
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0013-remove-partial-application-super.md",
+	"sha": "54aea35e8b063a958f25d742adfc6e5f05903cec",
+	"title": "Remove Partial Application of Non-Final Super Methods (Swift 2.2)",
+	"proposal": "SE-0013",
+	"authors": [
+		{
+			"name": "David Farler",
+			"link": "https://github.com/bitjammer"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "Doug Gregor",
+			"link": "https://github.com/DougGregor"
+		},
+	],
+	"status": "Rejected",
+	"version": "N/A",
+	"trackingBugs": [
+		"N/A"
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0014-constrained-AnySequence.md",
+	"sha": "13865c4a4e3e29389a541a54afad5e323b25f010",
+	"title": "Constraining `AnySequence.init`",
+	"proposal": "SE-0014",
+	"authors": [
+		{
+			"name": "Max Moiseev",
+			"link": "https://github.com/moiseev"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "Doug Gregor",
+			"link": "https://github.com/DougGregor"
+		},
+	],
+	"status": "Accepted",
+	"version": "N/A",
+	"trackingBugs": [
+		{
+			"number": "SR-474",
+			"link": "https://bugs.swift.org/browse/SR-474",
+			"status": "Closed",
+			"resolution": "Done",
+			"components": "Standard Library",
+			"priority": "Medium",
+			"radar": "N/A"
+		},
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0015-tuple-comparison-operators.md",
+	"sha": "25f7ccce5ba76cfd7d3cec5c3e787c0a625653d4",
+	"title": "Tuple comparison operators",
+	"proposal": "SE-0015",
+	"authors": [
+		{
+			"name": "Kevin Ballard",
+			"link": "https://github.com/kballard"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "Dave Abrahams",
+			"link": "https://github.com/dabrahams"
+		},
+	],
+	"status": "Implemented",
+	"version": "Swift 2.2",
+	"trackingBugs": [
+		"N/A"
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0016-initializers-for-converting-unsafe-pointers-to-ints.md",
+	"sha": "fb6befeff58837f2429cce9689fd929162ea8e67",
+	"title": "Add initializers to Int and UInt to convert from UnsafePointer and UnsafeMutablePointer",
+	"proposal": "SE-0016",
+	"authors": [
+		{
+			"name": "Michael Buckley",
+			"link": "https://github.com/MichaelBuckley"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "Chris Lattner",
+			"link": "https://github.com/lattner"
+		},
+	],
+	"status": "Accepted",
+	"version": "N/A",
+	"trackingBugs": [
+		{
+			"number": "SR-1115",
+			"link": "https://bugs.swift.org/browse/SR-1115",
+			"status": "Closed",
+			"resolution": "Done",
+			"components": "Standard Library",
+			"priority": "Medium",
+			"radar": "N/A"
+		},
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0017-convert-unmanaged-to-use-unsafepointer.md",
+	"sha": "4fd7a20a4e71b388ff926cff8116950e3fc0d238",
+	"title": "Change `Unmanaged` to use `UnsafePointer`",
+	"proposal": "SE-0017",
+	"authors": [
+		{
+			"name": "Jacob Bandes-Storch",
+			"link": "https://github.com/jtbandes"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "Chris Lattner",
+			"link": "https://github.com/lattner"
+		},
+	],
+	"status": "Accepted",
+	"version": "N/A",
+	"trackingBugs": [
+		"N/A"
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0076-copying-to-unsafe-mutable-pointer-with-unsafe-pointer-source.md",
+	"sha": "8397ed3ed5fcdabe3b88e5f5acb1e82b981bc637",
+	"title": "Add overrides taking an UnsafePointer source to non-destructive copying methods on UnsafeMutablePointer",
+	"proposal": "SE-0076",
+	"authors": [
+		{
+			"name": "Janosch Hildebrand",
+			"link": "https://github.com/Jnosh"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "Chris Lattner",
+			"link": "http://github.com/lattner"
+		},
+	],
+	"status": "Accepted with Revisions",
+	"version": "N/A",
+	"trackingBugs": [
+		{
+			"number": "SR-1490",
+			"link": "https://bugs.swift.org/browse/SR-1490",
+			"status": "Resolved",
+			"resolution": "Done",
+			"components": "Standard Library",
+			"priority": "Medium",
+			"radar": "N/A"
+		},
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0077-operator-precedence.md",
+	"sha": "49091a654a6698441a29f7312ff5aec8aefe2633",
+	"title": "Improved operator declarations",
+	"proposal": "SE-0077",
+	"authors": [
+		{
+			"name": "Anton Zhilin",
+			"link": "https://github.com/Anton3"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "Joe Groff",
+			"link": "http://github.com/jckarter"
+		},
+	],
+	"status": "Accepted",
+	"version": "N/A",
+	"trackingBugs": [
+		"N/A",
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0078-rotate-algorithm.md",
+	"sha": "26ba88674d82656580f9aed0b5c627124812397d",
+	"title": "Implement a rotate algorithm, equivalent to std::rotate() in C++",
+	"proposal": "SE-0078",
+	"authors": [
+		{
+			"name": "Nate Cook",
+			"link": "https://github.com/natecook1000"
+		},
+		{
+			"name": "Sergey Bolshedvorsky",
+			"link": "https://github.com/bolshedvorsky"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "Chris Lattner",
+			"link": "http://github.com/lattner"
+		},
+	],
+	"status": "Deferred",
+	"version": "N/A",
+	"trackingBugs": [
+		"N/A"
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0079-upgrade-self-from-weak-to-strong.md",
+	"sha": "949f56228bbae7914cc79a6fd19db4aeb6fcc95f",
+	"title": "Allow using optional binding to upgrade `self` from a weak to strong reference",
+	"proposal": "SE-0079",
+	"authors": [
+		{
+			"name": "Evan Maloney",
+			"link": "https://github.com/emaloney"
+		},
+	],
+	"reviewManagers": "N/A",
+	"status": "Awaiting Review",
+	"version": "N/A",
+	"trackingBugs": [
+		"N/A"
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0080-failable-numeric-initializers.md",
+	"sha": "af51458573be6930fb4d62926803863176df5c60",
+	"title": "Failable Numeric Conversion Initializers",
+	"proposal": "SE-0080",
+	"authors": [
+		{
+			"name": "Matthew Johnson",
+			"link": "https://github.com/anandabits"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "Chris Lattner",
+			"link": "http://github.com/lattner"
+		},
+	],
+	"status": "Accepted with Revisions",
+	"version": "N/A",
+	"trackingBugs": [
+		{
+			"number": "SR-1491",
+			"link": "https://bugs.swift.org/browse/SR-1491",
+			"status": "Open",
+			"resolution": "N/A",
+			"components": "Standard Library",
+			"priority": "Medium",
+			"radar": "N/A"
+		},
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0081-move-where-expression.md",
+	"sha": "c9d7989396be76164ed59ae45ff6e2845133b7b3",
+	"title": "Move `where` clause to end of declaration",
+	"proposal": "SE-0081",
+	"authors": [
+		{
+			"name": "David Hart",
+			"link": "https://github.com/hartbit"
+		},
+		{
+			"name": "Robert Widmann",
+			"link": "https://github.com/CodaFi"
+		},
+		{
+			"name": "Pyry Jahkola",
+			"link": "https://github.com/pyrtsa"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "Chris Lattner",
+			"link": "http://github.com/lattner"
+		},
+	],
+	"status": "Accepted",
+	"version": "N/A",
+	"trackingBugs": [
+		{
+			"number": "SR-1561",
+			"link": "https://bugs.swift.org/browse/SR-1561",
+			"status": "Open",
+			"resolution": "N/A",
+			"components": "Compiler",
+			"priority": "Medium",
+			"radar": "rdar://problem/17203060"
+		},
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0116-id-as-any.md",
+	"sha": "b48ee90891439602f470e1fc3644ea6390c42140",
+	"title": "Import Objective-C `id` as Swift `Any` type",
+	"proposal": "SE-0116",
+	"authors": [
+		{
+			"name": "Joe Groff",
+			"link": "https://github.com/jckarter"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "Chris Lattner",
+			"link": "http://github.com/lattner"
+		},
+	],
+	"status": "Under Review",
+	"version": "N/A",
+	"trackingBugs": [
+		"N/A"
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0117-non-public-subclassable-by-default.md",
+	"sha": "3375556981b6949a49078eff5aeae584de0c5943",
+	"title": "Default classes to be non-subclassable publicly",
+	"proposal": "SE-0117",
+	"authors": [
+		{
+			"name": "Javier Soto",
+			"link": "https://github.com/JaviSoto"
+		},
+		{
+			"name": "John McCall",
+			"link": "https://github.com/rjmccall"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "Chris Lattner",
+			"link": "http://github.com/lattner"
+		},
+	],
+	"status": "Under Review",
+	"version": "N/A",
+	"trackingBugs": [
+		"N/A"
+	]
+},
+{
+	"link": "https://github.com/addisonleong/TestSwiftEvolution/blob/master/proposals/0118-closure-parameter-names-and-labels.md",
+	"sha": "6e4fe45d5d875c8113dfcc64a02dde218654171c",
+	"title": "Closure Parameter Names and Labels",
+	"proposal": "SE-0118",
+	"authors": [
+		{
+			"name": "Dave Abrahams",
+			"link": "https://github.com/dabrahams"
+		},
+		{
+			"name": "Dmitri Gribenko",
+			"link": "https://github.com/gribozavr"
+		},
+		{
+			"name": "Maxim Moiseev",
+			"link": "https://github.com/moiseev"
+		},
+	],
+	"reviewManagers": [
+		{
+			"name": "Chris Lattner",
+			"link": "http://github.com/lattner"
+		},
+	],
+	"status": "Under Review",
+	"version": "N/A",
+	"trackingBugs": [
+		"N/A"
+	]
+},
+]
