@@ -5,7 +5,7 @@
 * Review Manager(s): N/A
 * Status: **Implemented** (Swift 2.2)
 * Rationale Link: N/A
-* Tracking Bug(s): Swift 2.2: [SR-344](https://bugs.swift.org/browse/SR-344)
+* Tracking Bug(s): [SR-344](https://bugs.swift.org/browse/SR-344)
 
 ## Introduction
 
