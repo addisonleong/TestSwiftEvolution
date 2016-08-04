@@ -3,7 +3,7 @@
 * Proposal: [SE-0117](0117-non-public-subclassable-by-default.md)
 * Authors: [Javier Soto](https://github.com/JaviSoto), [John McCall](https://github.com/rjmccall)
 * Review manager: [Chris Lattner](http://github.com/lattner)
-* Status: **Under Review**
+* Status: **Active Review**
 
 ## Introduction
 
