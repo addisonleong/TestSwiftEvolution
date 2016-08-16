@@ -4,7 +4,7 @@
 * Author: [David Hart](https://github.com/hartbit)
 * Review Manager: [Doug Gregor](https://github.com/DougGregor)
 * Status: **Rejected**
-* Rationale Link: [Rationale](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160104/005478.html)
+* Decision Notes: [Rationale](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160104/005478.html)
 
 ## Introduction
 
