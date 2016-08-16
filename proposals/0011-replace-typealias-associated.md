@@ -4,8 +4,8 @@
 * Author: [Loïc Lecrenier](https://github.com/loiclec)
 * Review Manager: [Doug Gregor](https://github.com/DougGregor)
 * Status: **Accepted**
-* Rationale Link: [Rationale](http://thread.gmane.org/gmane.comp.lang.swift.evolution/2883)
-* Tracking Bugs: [SR-511](https://bugs.swift.org/browse/SR-511)
+* Decision Notes: [Rationale](http://thread.gmane.org/gmane.comp.lang.swift.evolution/2883)
+* Bugs: [SR-511](https://bugs.swift.org/browse/SR-511)
 
 ## Introduction
 
