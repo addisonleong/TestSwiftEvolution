@@ -4,7 +4,7 @@
 * Author: [Kevin Ballard](https://github.com/kballard)
 * Review Manager: [Doug Gregor](https://github.com/DougGregor)
 * Status: **Rejected**
-* Rationale Link: [Rationale](http://thread.gmane.org/gmane.comp.lang.swift.evolution/7697)
+* Decision Notes: [Rationale](http://thread.gmane.org/gmane.comp.lang.swift.evolution/7697)
 
 ## Introduction
 
