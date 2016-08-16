@@ -4,8 +4,8 @@
 * Author: [Michael Buckley](https://github.com/MichaelBuckley)
 * Review manager: [Chris Lattner](https://github.com/lattner)
 * Status: **Accepted**
-* Rationale Link: [Rationale](http://thread.gmane.org/gmane.comp.lang.swift.evolution/13429)
-* Tracking Bug: [SR-1115](https://bugs.swift.org/browse/SR-1115)
+* Decision Notes: [Rationale](http://thread.gmane.org/gmane.comp.lang.swift.evolution/13429)
+* Bugs: [SR-1115](https://bugs.swift.org/browse/SR-1115)
 * Previous Revision: [1](https://github.com/apple/swift-evolution/blob/ae2d7c24fff7cbdff754d9a4339e4fb02df5c690/proposals/0016-initializers-for-converting-unsafe-pointers-to-ints.md) (as accepted)
 
 ## Introduction
