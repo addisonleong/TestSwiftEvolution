@@ -4,8 +4,8 @@
 * Author: [Max Moiseev](https://github.com/moiseev)
 * Review Manager: [Doug Gregor](https://github.com/DougGregor)
 * Status: **Accepted**
-* Rationale Link: [Rationale](http://article.gmane.org/gmane.comp.lang.swift.evolution/9746/match=constraining+anysequence)
-* Tracking Bug: [SR-474](https://bugs.swift.org/browse/SR-474)
+* Decision Notes: [Rationale](http://article.gmane.org/gmane.comp.lang.swift.evolution/9746/match=constraining+anysequence)
+* Bugs: [SR-474](https://bugs.swift.org/browse/SR-474)
 
 ## Introduction
 
