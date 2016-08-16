@@ -2,10 +2,7 @@
 
 * Proposal: [SE-0004](https://github.com/apple/swift-evolution/blob/master/proposals/0004-remove-pre-post-inc-decrement.md)
 * Author(s): [Chris Lattner](https://github.com/lattner)
-* Review Manager(s): N/A
 * Status: **Accepted**
-* Rationale Link: N/A
-* Tracking Bug(s): N/A
 
 ## Introduction
 
