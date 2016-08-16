@@ -1,11 +1,9 @@
 # Removing `var` from Function Parameters
 
 * Proposal: [SE-0003](https://github.com/apple/swift-evolution/blob/master/proposals/0003-remove-var-parameters-patterns.md)
-* Author(s): [David Farler](https://github.com/bitjammer)
-* Review Manager(s): [Joe Pamer](https://github.com/jopamer)
+* Author: [David Farler](https://github.com/bitjammer)
+* Review Manager: [Joe Pamer](https://github.com/jopamer)
 * Status: **Accepted**
-* Rationale Link: N/A
-* Tracking Bug(s): N/A
 
 ## Note
 
