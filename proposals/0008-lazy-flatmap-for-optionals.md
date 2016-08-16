@@ -4,8 +4,8 @@
 * Author: [Oisin Kidney](https://github.com/oisdk)
 * Review Manager: [Doug Gregor](https://github.com/DougGregor)
 * Status: **Accepted**
-* Rationale Link: ([Rationale](http://thread.gmane.org/gmane.comp.lang.swift.evolution/1243)
-* Tracking Bugs: [SR-361](https://bugs.swift.org/browse/SR-361)
+* Decision Notes: ([Rationale](http://thread.gmane.org/gmane.comp.lang.swift.evolution/1243)
+* Bugs: [SR-361](https://bugs.swift.org/browse/SR-361)
 
 ## Introduction ##
 
