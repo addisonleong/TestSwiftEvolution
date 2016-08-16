@@ -4,8 +4,8 @@
 * Authors: [David Hart](https://github.com/hartbit), [Robert Widmann](https://github.com/CodaFi), [Pyry Jahkola](https://github.com/pyrtsa)
 * Review manager: [Chris Lattner](http://github.com/lattner)
 * Status: **Accepted**
-* Rationale Link: [Rationale](https://lists.swift.org/pipermail/swift-evolution-announce/2016-May/000161.html)
-* Tracking Bug(s): [SR-1561](https://bugs.swift.org/browse/SR-1561)
+* Decision Notes: [Rationale](https://lists.swift.org/pipermail/swift-evolution-announce/2016-May/000161.html)
+* Bugs: [SR-1561](https://bugs.swift.org/browse/SR-1561)
 
 ## Introduction
 
