@@ -1,11 +1,11 @@
 # Remove C-style for-loops with conditions and incrementers
 
 * Proposal: [SE-0007](https://github.com/apple/swift-evolution/blob/master/proposals/0007-remove-c-style-for-loops.md)
-* Author(s): [Erica Sadun](https://github.com/erica)
-* Review Manager(s): [Doug Gregor](https://github.com/DougGregor)
+* Author: [Erica Sadun](https://github.com/erica)
+* Review Manager: [Doug Gregor](https://github.com/DougGregor)
 * Status: **Accepted**
-* Rationale Link: [Rationale](http://thread.gmane.org/gmane.comp.lang.swift.evolution/11148/)
-* Tracking Bug(s): Swift 2.2: [SR-226](https://bugs.swift.org/browse/SR-226), Swift 3: [SR-227](https://bugs.swift.org/browse/SR-227)
+* Decision Notes: [Rationale](http://thread.gmane.org/gmane.comp.lang.swift.evolution/11148/)
+* Bugs: Swift 2.2: [SR-226](https://bugs.swift.org/browse/SR-226), Swift 3: [SR-227](https://bugs.swift.org/browse/SR-227)
 
 ## Introduction
 
