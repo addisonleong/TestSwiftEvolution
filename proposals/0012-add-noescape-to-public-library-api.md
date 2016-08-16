@@ -4,7 +4,7 @@
 * Author: [Jacob Bandes-Storch](https://github.com/jtbandes)
 * Review Manager: [Philippe Hausler](https://github.com/phausler)
 * Status: **Rejected**
-* Rationale Link: [Rationale](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160530/019902.html)
+* Decision Notes: [Rationale](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160530/019902.html)
 
 ##### Revision history
 
