@@ -4,7 +4,7 @@
 * Authors: [Nate Cook](https://github.com/natecook1000), [Sergey Bolshedvorsky](https://github.com/bolshedvorsky)
 * Review manager: [Chris Lattner](http://github.com/lattner)
 * Status: **Deferred**
-* Rationale Link: [Rationale](https://lists.swift.org/pipermail/swift-evolution-announce/2016-May/000165.html)
+* Decision Notes: [Rationale](https://lists.swift.org/pipermail/swift-evolution-announce/2016-May/000165.html)
 
 ## Introduction
 
