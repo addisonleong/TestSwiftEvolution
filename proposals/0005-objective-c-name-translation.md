@@ -1,11 +1,10 @@
 # Better Translation of Objective-C APIs Into Swift
 
 * Proposal: [SE-0005](https://github.com/apple/swift-evolution/blob/master/proposals/0005-objective-c-name-translation.md)
-* Author(s): [Doug Gregor](https://github.com/DougGregor), [Dave Abrahams](https://github.com/dabrahams)
-* Review Manager(s): [Doug Gregor](https://github.com/DougGregor)
+* Author: [Doug Gregor](https://github.com/DougGregor), [Dave Abrahams](https://github.com/dabrahams)
+* Review Manager: [Doug Gregor](https://github.com/DougGregor)
 * Status: **Accepted**
-* Rationale Link: [Rationale](http://thread.gmane.org/gmane.comp.lang.swift.evolution/8590)
-* Tracking Bug(s): N/A
+* Decision Notes: [Rationale](http://thread.gmane.org/gmane.comp.lang.swift.evolution/8590)
 
 ## Reviewer notes
 
