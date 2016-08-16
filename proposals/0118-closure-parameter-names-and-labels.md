@@ -2,8 +2,8 @@
 
 * Proposal: [SE-0118](0118-closure-parameter-names-and-labels.md)
 * Authors: [Dave Abrahams](https://github.com/dabrahams), [Dmitri Gribenko](https://github.com/gribozavr), [Maxim Moiseev](https://github.com/moiseev)
-* Review manager: [Chris Lattner](http://github.com/lattner)
-* Status: **Active Review**
+* Review Manager: [Chris Lattner](http://github.com/lattner)
+* Status: **Active review**
 
 ## Revision History
 
