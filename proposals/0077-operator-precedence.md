@@ -4,8 +4,7 @@
 * Author: [Anton Zhilin](https://github.com/Anton3)
 * Review manager: [Joe Groff](http://github.com/jckarter)
 * Status: **Accepted**
-* Rationale Link: [Rationale](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160704/023745.html)
-* Tracking Bug: N/A
+* Decision Notes: [Rationale](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160704/023745.html)
 
 **Revision history**
 
