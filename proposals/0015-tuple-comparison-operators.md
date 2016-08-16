@@ -3,8 +3,8 @@
 * Proposal: [SE-0015](https://github.com/apple/swift-evolution/blob/master/proposals/0015-tuple-comparison-operators.md)
 * Author: [Kevin Ballard](https://github.com/kballard)
 * Review manager: [Dave Abrahams](https://github.com/dabrahams)
-* Status: **Implemented** (Swift 2.2)
-* Rationale Link: [Rationale](http://thread.gmane.org/gmane.comp.lang.swift.evolution/11423/focus=1248)
+* Status: **Implemented (Swift 2.2)**
+* Decision Notes: [Rationale](http://thread.gmane.org/gmane.comp.lang.swift.evolution/11423/focus=1248)
 
 ## Introduction
 
