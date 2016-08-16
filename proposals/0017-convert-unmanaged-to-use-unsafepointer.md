@@ -4,7 +4,7 @@
 * Author: [Jacob Bandes-Storch](https://github.com/jtbandes)
 * Review manager: [Chris Lattner](https://github.com/lattner)
 * Status: **Accepted**
-* Rationale Link: [Rationale](http://thread.gmane.org/gmane.comp.lang.swift.evolution/16118)
+* Decision Notes: [Rationale](http://thread.gmane.org/gmane.comp.lang.swift.evolution/16118)
 
 ## Introduction
 
