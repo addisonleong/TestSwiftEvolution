@@ -4,7 +4,7 @@
 * Author: [David Farler](https://github.com/bitjammer)
 * Review Manager: [Doug Gregor](https://github.com/DougGregor)
 * Status: **Rejected**
-* Rationale Link: [Rationale](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160118/007316.html)
+* Decision Notes: [Rationale](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160118/007316.html)
 
 ## Introduction
 
